@@ -1,2 +1,2 @@
-# Flash_Data_OCR_SDK_Android
+# FlashData OCR-AndroidSdk
 Flas data ocr android sdk
