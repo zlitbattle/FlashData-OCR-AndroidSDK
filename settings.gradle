@@ -1,0 +1,3 @@
+include ':ocrSdk'
+include ':app'
+rootProject.name = "OcrSdk"
